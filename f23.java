@@ -5,6 +5,7 @@ public class f23 {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
+		
 		int i=1,count=0;
 		while(i<=100)
 		{
@@ -18,3 +19,4 @@ public class f23 {
 	}
 
 }
+
