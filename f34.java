@@ -21,4 +21,5 @@ public class f34 {
 		System.out.println("The COunt of digit is ="+c);
 	}
 
+
 }
