@@ -1,5 +1,4 @@
 package Loops;
-
 public class f52 {
 
 	public static void main(String[] args) {
@@ -15,3 +14,4 @@ public class f52 {
 	}
 
 }
+
